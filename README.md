@@ -1,2 +1,2 @@
 # ScratchPad
-Just for testing and practice
+Just for testing and practice.  Not really a project or repository...
